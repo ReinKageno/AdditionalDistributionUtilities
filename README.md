@@ -1,6 +1,6 @@
 <div align="center">
 
-# ADU
+# Additiona lDistribution Utilities
 ## [ADU]
 
 [![Badge Download]][Download]
