@@ -9,17 +9,17 @@
 ### Long & Fast Bridge
 Jump and Pass through the various walls and buildings down there
 
-![Bridge](project/setting/image/bridge-spoiler.png)
+![Bridge](Project/setting/image/bridge-spoiler.png)
 
 ### Super Fast Router
 Distribute goods quickly. Fulfills all the needs of the factory
 
-![Router](project/setting/image/router-spoiler.png)
+![Router](Project/setting/image/router-spoiler.png)
 
 ### Smart Driver
 Fast, Cheap, Low Power and Easy to use! With a medium size Smart Driver can carry a lot of stuff safely
 
-![Driver](project/setting/image/smart-driver.png)
+![Driver](Project/setting/image/smart-driver.png)
 
 ## License
 
@@ -32,9 +32,9 @@ To learn about the resources of CyberIO, please check the [Copyright](COPYRIGHT.
 
 <!-----------------------------------------------------[ BADGE]------------------------------------------------------>
 
-[Badge Build]: https://img.shields.io/badge/DOWNLOAD%20LATEST%BUILD-BETA%20Version-f5e342?style=for-the-badge&logo=docusign&logoColor=951F1B
+[Badge Build]: https://img.shields.io/badge/DOWNLOAD%20LATEST%20BUILD-ALPHA-c5271b?style=for-the-badge&logo=onlyoffice&labelColor=951f1b
 
-[Badge Download]: https://img.shields.io/github/downloads/liplum/CyberIO/total?color=023a46&label=Download&logo=docusign&logoColor=white&style=for-the-badge&labelColor=034e5e
+[Badge Download]: https://img.shields.io/github/downloads/liplum/CyberIO/total?color=1B95df&label=Download&logo=docusign&logoColor=white&style=for-the-badge&labelColor=1B82cd
 
 <!------------------------------------------------------------------------------------------------------------------->
 
