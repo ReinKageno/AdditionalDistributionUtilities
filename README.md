@@ -40,4 +40,4 @@ To learn about the resources of ADU, please check the [Copyright](Project/settin
 
 [LDownload]: https://github.com/RakaGIT/ReTurret/archive/refs/heads/main.zip
 
-[Download]: https://github.com/liplum/CyberIO/releases/latest
+[Download]: https://github.com/ReinKageno/AdditionalDistributionUtilities/releases/latest
