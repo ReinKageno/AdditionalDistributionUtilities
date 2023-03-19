@@ -23,9 +23,9 @@ Fast, Cheap, Low Power and Easy to use! With a medium size Smart Driver can carr
 
 ## License
 
-The code of CyberIO is open source under GNU General Public License v3.0 (GPL 3.0).
+The code of ADU is open source under GNU General Public License v3.0 (GPL 3.0).
 
-To learn about the resources of CyberIO, please check the [Copyright](COPYRIGHT.md).
+To learn about the resources of ADU, please check the [Copyright](Project/setting/github/COPYRIGHT.md).
 </div>
 
 <!-----------------------------------------------------[ LINK ]------------------------------------------------------>
@@ -34,7 +34,7 @@ To learn about the resources of CyberIO, please check the [Copyright](COPYRIGHT.
 
 [Badge Build]: https://img.shields.io/badge/DOWNLOAD%20LATEST%20BUILD-ALPHA-c5271b?style=for-the-badge&logo=onlyoffice&labelColor=951f1b
 
-[Badge Download]: https://img.shields.io/github/downloads/liplum/CyberIO/total?color=1B95df&label=Download&logo=docusign&logoColor=white&style=for-the-badge&labelColor=1B82cd
+[Badge Download]: https://img.shields.io/github/downloads/ReinKageno/AdditionalDistributionUtilities/total?color=1B95df&label=Download&logo=docusign&logoColor=white&style=for-the-badge&labelColor=1B82cd
 
 <!------------------------------------------------------------------------------------------------------------------->
 
