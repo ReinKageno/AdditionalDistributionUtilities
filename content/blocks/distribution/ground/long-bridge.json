@@ -2,7 +2,7 @@
     "type":"ItemBridge",
     "size":1,
     "category":"distribution",
-    "range":14,
+    "range":17,
     "transportTime":0.5,
     "research":{
         "parent":"fast-bridge"
