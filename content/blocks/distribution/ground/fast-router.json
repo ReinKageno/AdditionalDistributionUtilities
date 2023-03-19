@@ -1,0 +1,15 @@
+{
+    "health":120,
+    "type":"Router",
+    "requirements":[
+        {"item":"copper","amount":6},
+        {"item":"lead","amount":10}
+    ],
+    "speed":0.1,
+    "envDisabled":16,
+    "category":"distribution",
+    "research":{
+        "parent":"fast-junction",
+        "block":"bridge"
+    },
+}

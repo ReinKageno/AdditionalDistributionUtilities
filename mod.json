@@ -1,0 +1,13 @@
+{
+    "name":"adu",
+    "displayName":"ADU",
+    "version":"v.1.0.1 [[red]ALPHA",
+
+    "description":"[#FF6A47[]]Still under development[[]] \n\nTranslated by the BOT \n\nNumber Version: \n[#A0FF1B[]]Update[[]].[#00DBFF[]]Release[[]].[#FFA047[]]Development",
+    "hidden":false,
+    "hideBrowser":false,
+    "minGameVersion":141,
+
+    "dependencies":[],
+    "author":"ReinKageno"
+}

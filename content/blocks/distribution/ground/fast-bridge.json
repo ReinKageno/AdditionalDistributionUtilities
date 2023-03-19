@@ -1,0 +1,16 @@
+{
+    "type":"ItemBridge",
+    "size":1,
+    "category":"distribution",
+    "range":5,
+    "transportTime":0.1,
+    "research":{
+        "parent":"junction",
+        "block":"bridge"
+    },
+    "requirements":[
+        {"item":"copper","amount":8},        
+        {"item":"lead","amount":4}
+    ],
+    "health":80
+}
