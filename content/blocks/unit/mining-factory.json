@@ -1,27 +1,27 @@
 {
-    "type":"UnitFactory",
-    "category":"units",
-    "health":300,
-    "size":2,
-    "consumes":{
-        "power":2
+    "type": "UnitFactory",
+    "researchCostMultiplier": 0.3,
+    "size": 2,
+    "consumes": {
+    "power": 2
     },
-
-    "plans":[
-        {
-            "unit":"labor",
-            "time":120,
-            "requirements":[
-                {"item":"copper","amount":70},
-                {"item":"titanium","amount":50},
-                {"item":"silicon","amount":30}
-            ]
-        }
+    "plans": [
+    {
+        "unit": "pteris",
+            "requirements": [
+            {"item": "copper", "amount": 200},
+            {"item": "titanium", "amount": 250},
+            {"item": "silicon", "amount": 150}
+           ],
+        "time": 300
+    }
     ],
-    "requirements":[
-        {"item":"copper","amount":250},
-        {"item":"lead","amount":300},
-        {"item":"silicon","amount":300}
+        "requirements": [
+        {"item": "coper", "amount": 300},
+        {"item": "lead", "amount": 250},
+        {"item": "silicon", "amount": 250}
     ],
-    "research":"air-factory"
-}
+    "category": "units",
+    "research": "air-factory"
+    }
+    
