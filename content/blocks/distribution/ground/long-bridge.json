@@ -13,5 +13,6 @@
         {"item":"lead","amount":25},
         {"item":"graphite","amount":7}
     ],
-    "health":120
+    "health":120,
+    "researchCostMultiplier":2
 }

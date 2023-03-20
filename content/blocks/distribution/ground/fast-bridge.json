@@ -11,7 +11,8 @@
     },
     "requirements":[
         {"item":"copper","amount":8},        
-        {"item":"lead","amount":4}
+        {"item":"lead","amount":8}
     ],
+    "researchCostMultiplier":2,
     "health":80
 }

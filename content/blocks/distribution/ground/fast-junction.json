@@ -12,5 +12,6 @@
         "parent":"junction",
         "block":"sorter"
     },
+    "researchCostMultiplier":2,
     "health":120
 }

@@ -12,4 +12,5 @@
         "parent":"fast-junction",
         "block":"bridge"
     },
+    "researchCostMultiplier":2
 }

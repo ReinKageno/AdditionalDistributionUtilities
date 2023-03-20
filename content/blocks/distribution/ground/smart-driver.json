@@ -1,6 +1,7 @@
 {
     "type":"MassDriver",
     "category":"distribution",
+    "researchCostMultiplier":2,
     "size":2,
     "rotateSpeed":10,
     "knockback":2.5,
