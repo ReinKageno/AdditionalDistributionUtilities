@@ -9,8 +9,8 @@
         {"item":"lead","amount":4}
     ],
     "research":{
-        "parent":"shard",
-        "block":"juction"
+        "parent":"junction",
+        "block":"sorter"
     },
     "health":120
 }
