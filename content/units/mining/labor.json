@@ -1,0 +1,25 @@
+{
+    "type":"Flying",
+    "defaultController":"minerAI",
+    "flyying":true,
+    "health":180,
+    "speed":3.6,
+    "isEnemy":false,
+    "playerControllable":false,
+    "canHeal":true,
+    "immunities":["melting","bruning","wet"],
+    "mineTier":2,
+    "mineWalls":true,
+    "itemCapacity":50,
+    "mineSpeed":13.4,
+    "mineHardnessScaling":true,
+    "lowAltitude":false,
+    "mineItems":[
+        "copper",
+        "lead",
+        "titanium",
+        "beryllium",
+        "graphite",
+        "tungsten"
+    ]
+}

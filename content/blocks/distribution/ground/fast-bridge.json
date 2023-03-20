@@ -1,5 +1,6 @@
 {
     "type":"ItemBridge",
+    "hasPower":false,
     "size":1,
     "category":"distribution",
     "range":5,

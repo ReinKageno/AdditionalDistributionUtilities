@@ -1,0 +1,27 @@
+{
+    "type":"UnitFactory",
+    "category":"units",
+    "health":300,
+    "size":2,
+    "consumes":{
+        "power":2
+    },
+
+    "plans":[
+        {
+            "unit":"labor",
+            "time":120,
+            "requirements":[
+                {"item":"copper","amount":70},
+                {"item":"titanium","amount":50},
+                {"item":"silicon","amount":30}
+            ]
+        }
+    ],
+    "requirements":[
+        {"item":"copper","amount":250},
+        {"item":"lead","amount":300},
+        {"item":"silicon","amount":300}
+    ],
+    "research":"air-factory"
+}
