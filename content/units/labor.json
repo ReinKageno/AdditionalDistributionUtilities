@@ -6,13 +6,13 @@
     "speed":3.6,
     "isEnemy":false,
     "playerControllable":false,
-    "immunities":["melting","bruning","wet"],
     "mineTier":3,
     "mineWalls":true,
     "itemCapacity":50,
     "mineSpeed":13.4,
     "mineHardnessScaling":true,
     "lowAltitude":false,
+    "hitSize":8,
     "mineItems":[
         "copper",
         "lead",
@@ -22,5 +22,6 @@
         "tungsten"
     ],
 
-    "research":"mining-factory"
+    "research":"mining-factory",
+    "armor":2
 }

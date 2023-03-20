@@ -7,7 +7,7 @@
     },
     "plans": [
     {
-        "unit": "pteris",
+        "unit": "labor",
             "requirements": [
             {"item": "copper", "amount": 200},
             {"item": "titanium", "amount": 250},
