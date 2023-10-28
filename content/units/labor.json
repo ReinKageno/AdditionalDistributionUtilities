@@ -1,27 +1,32 @@
 {
-    "type":"Flying",
-    "defaultController":"minerAI",
-    "flying":true,
-    "health":180,
-    "speed":3.6,
-    "isEnemy":false,
-    "playerControllable":false,
-    "mineTier":3,
-    "mineWalls":true,
-    "itemCapacity":50,
-    "mineSpeed":13.4,
-    "mineHardnessScaling":true,
-    "lowAltitude":false,
-    "hitSize":8,
-    "mineItems":[
-        "copper",
-        "lead",
-        "titanium",
-        "beryllium",
-        "graphite",
-        "tungsten"
+    "type": "flying",
+    "description": "Miner",
+    "lowAltitude": false,
+    "research": "mining-factory",
+    "defaultController": "minerAI",
+    "mineItems": [
+      "copper",
+      "lead",
+      "titanium"
     ],
-
-    "research":"mining-factory",
-    "armor":2
-}
+    "playerControllable": false,
+    "speed": 4.0,
+    "mineSpeed": 13.4,
+    "rotateSpeed": 10.5,
+    "mineTier": 4,
+    "accel": 0.5,
+    "drag": 0.5,
+    "trailLength": 8,
+    "mineHardnessScaling": true,
+    "mineWalls": true,
+    "outlineColor": "36363c",
+    "engineColor": "A9D8FFFF",
+    "trailColor": "A9D8FFFF",
+    "flying": true,
+    "health": 180,
+    "hitSize": 8,
+    "armor": 2,
+    "itemCapacity": 50,
+    "engineOffset": 6
+  }
+  
