@@ -1,9 +1,9 @@
 {
     "name":"adu",
     "displayName":"Additional Distribution Utilities",
-    "version":"v.1.1.4 [[red]ALPHA",
+    "version":"v.1.1.5 Release",
 
-    "description":"[#FF6A47[]]Still under development[[]] \n\nTranslated by the BOT \n\nNumber Version: \n[#A0FF1B[]]Update[[]].[#00DBFF[]]Release[[]].[#FFA047[]]Development",
+    "description":"Translated by the BOT \n\nNumber Version: \n[#A0FF1B[]]Update[[]].[#00DBFF[]]Release[[]].[#FFA047[]]Development. \n\n",
     "hidden":false,
     "hideBrowser":false,
     "minGameVersion":145,
