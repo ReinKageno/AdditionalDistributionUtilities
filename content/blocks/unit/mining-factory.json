@@ -3,25 +3,24 @@
     "researchCostMultiplier": 0.3,
     "size": 2,
     "consumes": {
-    "power": 2
+      "power": 2
     },
     "plans": [
-    {
+      {
         "unit": "labor",
-            "requirements": [
-            {"item": "copper", "amount": 200},
-            {"item": "titanium", "amount": 250},
-            {"item": "silicon", "amount": 150}
-           ],
-        "time": 300
-    }
-    ],
         "requirements": [
-        {"item": "coper", "amount": 300},
-        {"item": "lead", "amount": 250},
-        {"item": "silicon", "amount": 250}
+            "copper/100",
+            "silicon/80"
+        ],
+        "time": 300
+      }
+    ],
+    "requirements": [
+      {"item": "copper","amount": 180},
+      {"item": "graphite","amount": 200},
+      {"item": "silicon","amount": 180}
     ],
     "category": "units",
-    "research": "air-factory"
-    }
-    
+    "research": "team-genesux"
+  }
+  
